@@ -1,0 +1,4 @@
+%{
+  "egd": {:git, "https://github.com/erlang/egd.git", "1cea959544de7dd40a3284ba571a58939de57616", []},
+  "random_colour": {:hex, :random_colour, "0.1.0", "5a0dd78dceed3c493c65a82704d71f2dfb755f7f9c396caa2edbaeda3909ca53", [:mix], [], "hexpm", "f25600426bed85c535038687365bb2c3d4807e29d2b650fe11b743e5a952811a"},
+}
